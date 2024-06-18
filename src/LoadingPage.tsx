@@ -3,6 +3,7 @@ import { View, Image } from '@gluestack-ui/themed';
 //@ts-ignore
 import logo from '../assets/logo-color.png'
 
+
 export default function LoadingScreen ({ navigation }: any) {
     useEffect(() => {
         setTimeout(() => {
